@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354521542765",
+    "project_id": "cmovies-70f5d",
+    "storage_bucket": "cmovies-70f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354521542765:android:070a48277b240979ad4f64",
+        "android_client_info": {
+          "package_name": "com.example.cmovies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTQhkmM9c-BJ06X4ghEV2ZRsWLLO9pp4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
